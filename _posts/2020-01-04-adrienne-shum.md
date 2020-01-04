@@ -13,11 +13,11 @@ The argument that early attachment experiences shape children’s social and emo
 
 Mental health is an extremely broad area. What does having a good mental health even mean? Broadly speaking, a good mental health would consist of a positive self concept, healthy emotion regulation, minimal to no externalising and internalising behaviour. Here is the full list of areas I will be discussing:
 
-- Personality characteristics (e.g. resilience, dependency, confidence...)
-- Emotion regulation
-- Self-concept
-- Externalising & internalising behaviour
-- Mental disorders 
+ * Personality characteristics (e.g. resilience, dependency, confidence...)
+ * Emotion regulation
+ * Self-concept
+ * Externalising & internalising behaviour
+ * Mental disorders 
 
 ## Personality characteristics
 To begin with, let us look into how early attachment affects personality as children grow up. This association was explored in the Minnesota Study of Risk and Adaptation from Birth to Adulthood [4]. In this prospective longitudinal study, children were recruited in infancy with their families and followed through age 34 years. Semi-structured observations were conducted at 12 and 18 months. In the years that followed, personality characteristics were assessed regularly through a range of measures including self reports,  behavioural observations, interviews. 
@@ -48,5 +48,5 @@ The causal link between attachment and psychopathology is further complicated by
 All in all, there is evidence that an attachment-insecure attachment link exists but it is clear that a causal relationship cannot be established. Other factors are likely to intersect with or heighten the effects of attachment on the way to mental disorders.
 
 ## Final thoughts
-A maltreated child with an insecure attachment style may develop positive self-concepts, grow up to become resilient to stress and be able to regulate their emotions. Similarly, a child with secured attachment may develop mental disorders in later life. A simple answer to the blogpost question is - no, a secure attachment is not **essential** for good mental health. It remains unclear how the effects of attachment interact with other risk factors when determining children's outcomes (e.g., genetically determined temperament, intelligence, life history, including maltreatment). Having said that, this should not undermine the importance and value of a secure attachment. As reviewed in the five areas above, it is evident that an insecure attachment style is a strong risk factor that may increase vulnerability to poor mental health. This highlights the importance for primary caregivers to create a safe space for their child to form a secure attachment with them. 
+A maltreated child with an insecure attachment style may develop positive self-concepts, grow up to become resilient to stress and be able to regulate their emotions. Similarly, a child with secured attachment may develop mental disorders in later life. A simple answer to the blogpost question is - no, a secure attachment is not *essential* for good mental health. It remains unclear how the effects of attachment interact with other risk factors when determining children's outcomes (e.g., genetically determined temperament, intelligence, life history, including maltreatment). Having said that, this should not undermine the importance and value of a secure attachment. As reviewed in the five areas above, it is evident that an insecure attachment style is a strong risk factor that may increase vulnerability to poor mental health. This highlights the importance for primary caregivers to create a safe space for their child to form a secure attachment with them. 
 
