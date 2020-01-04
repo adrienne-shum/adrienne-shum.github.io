@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Does an insecure attachment doom us to a life of poor mental health?"
+title: "Does insecure attachment increase our risk of poor mental health?"
 date: 2020-01-04
 ---
 
@@ -13,11 +13,15 @@ The argument that early attachment experiences shape children’s social and emo
 
 Mental health is an extremely broad area. What does having a good mental health even mean? Broadly speaking, a good mental health would consist of a positive self concept, healthy emotion regulation, minimal to no externalising and internalising behaviour. Here is the full list of areas I will be discussing:
 
- * Personality characteristics (e.g. resilience, dependency, confidence...)
- * Emotion regulation
- * Self-concept
- * Externalising & internalising behaviour
- * Mental disorders 
+**- Personality characteristics (e.g. resilience, dependency, confidence...)**
+
+**- Emotion regulation**
+
+**- Self-concept**
+
+**- Externalising & internalising behaviour**
+
+**- Mental disorders**
 
 ## Personality characteristics
 To begin with, let us look into how early attachment affects personality as children grow up. This association was explored in the Minnesota Study of Risk and Adaptation from Birth to Adulthood [4]. In this prospective longitudinal study, children were recruited in infancy with their families and followed through age 34 years. Semi-structured observations were conducted at 12 and 18 months. In the years that followed, personality characteristics were assessed regularly through a range of measures including self reports,  behavioural observations, interviews. 
