@@ -4,7 +4,7 @@ title: "Does insecure attachment increase our risk of poor mental health?"
 date: 2020-01-04
 ---
 
-![](https://github.com/adrienne-shum/adrienne-shum.github.io/blob/master/images/blog1.png )
+![](https://github.com/adrienne-shum/adrienne-shum.github.io/blob/master/images/blog1.jpg )
 
 Attachment can be defined as the *"lasting psychological connectedness between human beings."* [1] This can be formed between an individual and her mother, father, caregiver and romantic partner. Early attachment experiences form an important foundation for our later social and emotional development and our mental health. For instance, some psychologists strongly believe that a secure attachment is associated with less engagement in high risk behaviours, fewer mental health problems, and enhanced social skills and coping strategies [1]. Having said that, some children who grew up in extreme conditions (e.g. rough orphanages) were able to thrive in life, develop healthy relationships with others and maintain good mental health [2]. So which one is it? How important is a healthy attachment in childhood to our psychological development in later life? 
 To answer this question, it would be helpful to explore why some theorists, namely John Bowlby, would suggest a positive correlation between attachment and mental health.
