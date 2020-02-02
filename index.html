@@ -1,21 +1,19 @@
----
-layout: default
-pagination:
-  enabled: true
----
-<!-- The main content area -->
-<div class="posts">
-  <div class="grid-xlarge">
-    <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
+<html>
 
-      {% for post in paginator.posts %}
+  <title>First website</title>
 
-        <!-- The tag below includes the markup for each post - partials/post-card.html -->
-        {% include post-card.html %}
+   <body>
 
-      {% endfor %}
-    </div>
-  </div>
+    <h1>This is my first github page</h1>
 
-  {% include pagination.html %}
-</div>
+  </body>
+
+      <style>
+            body {
+              background-color:green;
+              color:#fff;
+              text-align:center;
+            }
+      </style>
+
+</html>
